@@ -276,7 +276,7 @@ curl http://mp-ip:8082/v1/servers/self
 ```
 2. Login on the Apige Edge UI
 
-![install](img/install_009.png)
+![install](img/install_008.png)
 
 ---
 
