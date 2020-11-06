@@ -8,7 +8,7 @@
 # Apigee All in One
 
 # Apigee 6 nodes topology
-See more info [here](/apigee-ops/6node-topology/README.md)
+See more info [here](6node-topology/README.md)
 
 # Apigee Two Data Centers
 

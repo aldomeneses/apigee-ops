@@ -1,7 +1,7 @@
-# Apigee Instalation in 5 nodes
+# Apigee Instalation in 6 nodes
 
 **Index**
-- [Apigee Instalation in 5 nodes](#apigee-instalation-in-5-nodes)
+- [Apigee Instalation in 6 nodes](#apigee-instalation-in-6-nodes)
   - [Scope](#scope)
     - [Apigee Edge documentation](#apigee-edge-documentation)
   - [Topology](#topology)
