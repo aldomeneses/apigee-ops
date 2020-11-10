@@ -184,7 +184,7 @@ It is important did a correct configuration of this file and keep the same file 
 
 ### Instalation for Cassandra & ZK
 
-1. Install Datastore cluster on nodes 1, 2 and 3:
+1. Install Datastore cluster on nodes 1, 2, 3, 7, 8 and 9:
 Table
 
 ```
@@ -201,7 +201,7 @@ After to complete the installation of the three nodes, is very important validat
 
 ### Installation of Management Server
 
-1. Install Management Server on node 6
+1. Install Management Server on nodes 6 and 12:
 ```
     /opt/apigee/apigee-setup/bin/setup.sh -p ms -f <configFile>
 ```
@@ -209,7 +209,7 @@ After to complete the installation of the three nodes, is very important validat
 
 ### Installation of Router & Message Procesor (RMP)
 
-1. Install Router and Message Processor Server on nodes 1, 2 and 3:
+1. Install Router and Message Processor Server on nodes 1, 2, 3, 7, 8 and 9:
 ```
     /opt/apigee/apigee-setup/bin/setup.sh -p rmp -f <configFile>
 ```
@@ -222,7 +222,7 @@ curl http://mp-ip:8082/v1/servers/self
 ```
 
 ### Installation of Analytics
-1. Install Analytics on node 4 and 5
+1. Install Analytics on node 4 and 10
 ```
 /opt/apigee/apigee-setup/bin/setup.sh -p sax -f <configFile>
 ```
