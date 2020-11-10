@@ -1,7 +1,7 @@
-# Apigee Instalation in 6 nodes
+# Apigee Instalation in Two Data Centers
 
 **Index**
-- [Apigee Instalation in 6 nodes](#apigee-instalation-in-6-nodes)
+- [Apigee Instalation in Two Data Centers](#apigee-instalation-in-two-data-centers)
   - [Scope](#scope)
     - [Apigee Edge documentation](#apigee-edge-documentation)
   - [Topology](#topology)
