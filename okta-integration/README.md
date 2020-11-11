@@ -446,3 +446,9 @@ See the config file [here](sso-setup.cfg)
 ```
 /opt/apigee/apigee-service/bin/apigee-service edge-ui configure-sso -f <configFile>
 ```
+
+![install](img/image_010.png)
+
+![install](img/img_011.png)
+
+![install](img/img_012.png)
