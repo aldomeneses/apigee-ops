@@ -24,3 +24,4 @@ See more info [here](two-data-centers/README.md)
 # Apigee Validation Process
 
 # Apigee OKTA Integration
+See more info [here](okta-integration/README.md)
